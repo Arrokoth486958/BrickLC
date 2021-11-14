@@ -14,6 +14,6 @@
 + XBox Authentication
 + Better API
 + Logging
-+ Stopping game
++ Game Management
 
 and more...
