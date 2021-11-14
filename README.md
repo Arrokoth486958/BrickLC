@@ -10,9 +10,10 @@
 + Launch Game
 ## Planed Features
 + Forge/Fabric download
++ Authlib Injector Authentication
 + XBox Authentication
 + Better API
 + Logging
-+ Game Management
++ Stopping game
 
 and more...
