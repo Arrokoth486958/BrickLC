@@ -1,6 +1,6 @@
 # Brick Launcher Core - A Minecraft Launcher Core
 ## Current Features
-+ Microsoft/Mojang Authentication
++ Microsoft/Mojang Yggdrasil Authentication
 + Offline Account
 + Download Game
 + Download Libraries
