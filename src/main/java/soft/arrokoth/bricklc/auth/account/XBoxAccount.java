@@ -2,9 +2,9 @@ package soft.arrokoth.bricklc.auth.account;
 
 import java.util.UUID;
 
+// TODO: WIP!
 public class XBoxAccount extends GameAccount
 {
-    // TODO: WIP!
     private XBoxAccount(String username, String uuid, String accessToken)
     {
         this.username = username;
