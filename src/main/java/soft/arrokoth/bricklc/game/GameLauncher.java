@@ -200,8 +200,6 @@ public class GameLauncher
             result.append(line).append("\n");
         }
         reader.close();
-        System.out.println(result);
-        process.waitFor();
         System.out.println("Exit with exit code " + process.exitValue());
     }
 }
