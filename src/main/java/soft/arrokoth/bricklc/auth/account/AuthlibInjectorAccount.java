@@ -12,7 +12,7 @@ import java.net.URL;
 import java.util.UUID;
 
 // TODO: WIP!
-class AuthlibInjectorAccount extends GameAccount
+public class AuthlibInjectorAccount extends GameAccount
 {
     private AuthlibInjectorAccount(String username, String uuid, String accessToken, String email, String clientToken)
     {
