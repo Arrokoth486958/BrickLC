@@ -7,7 +7,7 @@
 + Download Assets
 + Multisource support(like BMCLAPI)
 + Generate Batch file for launch
-+ Launch Game
++ Launch Game(Note: Could not launch Forge, Fabric, Optifine...)
 ## Planed Features
 + Forge/Fabric download
 + Authlib Injector Authentication
