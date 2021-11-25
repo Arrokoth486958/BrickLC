@@ -1,4 +1,7 @@
 # Brick Launcher Core - A Minecraft Launcher Core
+## Info
+BrickLc is a Minecraft Launcher Core, which is still WIP
+This is compiled with Java 8
 ## Current Features
 + Microsoft/Mojang Yggdrasil Authentication
 + Offline Account
